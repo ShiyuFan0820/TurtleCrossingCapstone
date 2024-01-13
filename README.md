@@ -3,12 +3,12 @@
 **What will be made in the end:**  
 
 <div align=center>
-<img width="700" alt="image" src="https://github.com/ShiyuFan0820/PythonLearningNote/assets/149340606/a409f982-8873-453f-b9c0-2dd35c5f8f17">
+<img width="600" alt="image" src="https://github.com/ShiyuFan0820/TurtleCrossingCapstone/assets/149340606/bb557dc2-e3e1-462d-8366-5f30176cd992">
 </div>
 
-[Python Daily Practice -- Turtle Crossing Capstone (Click here to watch the video)](https://youtu.be/enM9rD_ZgRo)
+[Turtle Crossing Capstone (Click here to watch the video)](https://youtu.be/enM9rD_ZgRo)
 
-**The completed code of this game is in the [main_code.py](https://github.com/ShiyuFan0820/TurtleCrossingCapstone/blob/main/main_code.py) file.**
+**The completed code of this game is in the [main.py](https://github.com/ShiyuFan0820/TurtleCrossingCapstone/blob/main/main.py) file.**
 
 **Iusses Recorded: These are issues I encountered while writing this code, which may be helpful for you**
 
